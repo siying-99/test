@@ -29,5 +29,5 @@
 > 用一个>表示，如：aaaaa
 
 ## 图片和链接
-![alt替代文本](sdafld.jpg)
-<img src="" alt="aaaa" />
+![alt替代文本](http://img1.imgtn.bdimg.com/it/u=1360380978,485723359&fm=26&gp=0.jpg)
+<img src="http://hbimg.b0.upaiyun.com/550b8b1ffe3c35b575272f2697537bc2517259cf17a77-4AYvbp_fw658" alt="aaaa" />
